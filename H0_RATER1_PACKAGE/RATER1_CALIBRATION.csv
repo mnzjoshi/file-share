@@ -1,0 +1,19 @@
+# H0 calibration score form, Rater 1. Fill every column. G_preservation_compositing: write N/A (all items are unmodified originals).
+# rater_name: 
+# date: 
+# declaration (yes/no): I scored alone, without AI help, and I was not shown previous ratings, source identities or the other rater's scores: 
+item_id,view,expected_digits,visible_digit_structures,naturally_occluded_digits,missing_or_duplicated_digits,uncertain_anatomy,A_digit_completeness,B_thumb_presence,B_thumb_position_orientation_attachment,B_thumb,C_finger_separation,D_hand_contour,E_face_like,F_plausibility,G_preservation_compositing,H_surface,H_surface_description,OVERALL,reason_if_borderline_or_fail,notes
+H0R1-01,,,,,,,,,,,,,,,N/A,,,,,
+H0R1-02,,,,,,,,,,,,,,,N/A,,,,,
+H0R1-03,,,,,,,,,,,,,,,N/A,,,,,
+H0R1-04,,,,,,,,,,,,,,,N/A,,,,,
+H0R1-05,,,,,,,,,,,,,,,N/A,,,,,
+H0R1-06,,,,,,,,,,,,,,,N/A,,,,,
+H0R1-07,,,,,,,,,,,,,,,N/A,,,,,
+H0R1-08,,,,,,,,,,,,,,,N/A,,,,,
+H0R1-09,,,,,,,,,,,,,,,N/A,,,,,
+H0R1-10,,,,,,,,,,,,,,,N/A,,,,,
+H0R1-11,,,,,,,,,,,,,,,N/A,,,,,
+H0R1-12,,,,,,,,,,,,,,,N/A,,,,,
+H0R1-13,,,,,,,,,,,,,,,N/A,,,,,
+H0R1-14,,,,,,,,,,,,,,,N/A,,,,,
